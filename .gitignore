@@ -127,3 +127,34 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.stroke/pyvenv.cfg
+.stroke/Scripts/activate
+.stroke/Scripts/activate.bat
+.stroke/Scripts/Activate.ps1
+.stroke/Scripts/deactivate.bat
+.stroke/Scripts/easy_install-3.9.exe
+.stroke/Scripts/easy_install.exe
+.stroke/Scripts/pip.exe
+.stroke/Scripts/pip3.9.exe
+.stroke/Scripts/pip3.exe
+.stroke/Scripts/python.exe
+.stroke/Scripts/pythonw.exe
+data/healthcare-dataset-stroke-data.csv
+.stroke/Scripts/f2py.exe
+.stroke/Scripts/iptest.exe
+.stroke/Scripts/iptest3.exe
+.stroke/Scripts/ipython.exe
+.stroke/Scripts/ipython3.exe
+.stroke/Scripts/jupyter-kernel.exe
+.stroke/Scripts/jupyter-kernelspec.exe
+.stroke/Scripts/jupyter-migrate.exe
+.stroke/Scripts/jupyter-run.exe
+.stroke/Scripts/jupyter-troubleshoot.exe
+.stroke/Scripts/jupyter.exe
+.stroke/Scripts/pygmentize.exe
+.stroke/Scripts/pywin32_postinstall.py
+.stroke/Scripts/pywin32_testall.py
+.stroke/share/jupyter/kernels/python3/kernel.json
+.stroke/share/jupyter/kernels/python3/logo-32x32.png
+.stroke/share/jupyter/kernels/python3/logo-64x64.png
+.stroke/share/man/man1/ipython.1.gz
